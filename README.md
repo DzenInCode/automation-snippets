@@ -1,5 +1,7 @@
 # automation-snippets
 
+![automation-snippets](assets/cover.png)
+
 Daily Python utilities — small, self-contained helpers I keep rewriting while doing IT operations, DBA work, and automation.
 
 Each file is copy-pasteable: drop into a project, adjust constants, ship.
